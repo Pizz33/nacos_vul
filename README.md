@@ -1,5 +1,5 @@
 # nacos_vul
-Nacos身份认证绕过批量检测（QVD-2023-6271）
+Nacos身份认证绕过批量检测（QVD-2023-6271）+ 直接添加用户
 
 nacosvul.py用于漏洞批量检测，nacosadd.py用于一键添加用户
 
